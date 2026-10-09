@@ -70,6 +70,16 @@ Y así estaremos listos para tener nuestro repositorio. Dejaré el mío aquí ab
 
 {% embed url="https://github.com/sofiazarza/documentaci-n-sofi.git" %}
 
+## Preguntas, problemas y soluciones
+
+<details>
+
+<summary>¿Qué hago con el repositorio?</summary>
+
+Cuando ya tuve el repositorio y el [GitBook](gitbook.md) hecho, sincronicé mi sitio en el repositiorio que cree, esto para que se garantice la actualización a tiempo del sitio web.
+
+</details>
+
 ***
 
 {% hint style="info" %}
