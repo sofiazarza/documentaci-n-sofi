@@ -1,0 +1,19 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Sofía Zarza
+  structure:
+    - type: section
+      key: section-1
+      title: Documentación
+      path: documentacion
+      description: ""
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: Documentación
+          path: modulo
+          default: true
+          content:
+            directory: ./documentacion/modulo
+            language: es
